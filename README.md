@@ -1,3 +1,5 @@
+#SOCIALITE TRIVIA GAME
+
 This stupid trivia game is about our dearest national treasures - Socialites!
 
 Hope you've been reading US Weekly!
