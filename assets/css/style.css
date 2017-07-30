@@ -1,0 +1,103 @@
+/* Put in order of appearance */
+
+body {
+  font-family: 'Fredoka One', cursive;
+  color:deeppink;
+  background-image: url("../images/CollageImage.png");
+}
+
+.celebs {
+  text-align: center;
+  font-size: 35px;
+  text-shadow: #c9d6de 1px 3px;
+  margin: inherit;
+  font-family: 'Fredoka One', cursive;
+}
+
+.gameContainer {
+  text-align:center;
+}
+
+.startGame {
+  box-shadow: 0px 0px 0px 2px #bc93df;
+  background-color:#fcc6d4;
+  border-radius:10px;
+  border:1px solid #4e6096;
+  display:inline;
+  position:inherit;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:30px;
+  padding:12px 37px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #283966;
+  font-family: 'Grand Hotel', cursive;
+}
+.startGame:hover {
+  background-color:deeppink;
+}
+.startGame:active {
+  position:relative;
+  top:1px;
+  background-color:#fcc6d4;
+}
+
+.next {
+  box-shadow: 0px 0px 0px 2px #bc93df;
+  background-color:#fcc6d4;
+  border-radius:10px;
+  border:1px solid #4e6096;
+  display:inline;
+  position:inherit;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:30px;
+  padding:12px 37px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #283966;
+  font-family: 'Grand Hotel', cursive;
+}
+.next:hover {
+  background-color:deeppink;
+}
+.next:active {
+  position:relative;
+  top:1px;
+}
+
+h1 {
+  text-align:center;
+  font-size:50px;
+  text-shadow: #c9d6de 1px 3px;
+  margin: inherit;
+}
+
+.question {
+  font-size:35px;
+  text-shadow:#c9d6de 1px 3px;;
+}
+
+.answers {
+  font-size: 25px;
+}
+
+.scoreDisplay {
+  font-size: 35px;
+}
+
+label {
+  border:1px solid #e3e36a;
+  padding:10px;
+  margin:0 0 10px;
+  display:block;
+
+}
+
+label:hover {
+  background:#e3dede;
+  cursor:pointer;
+}
+
+ul {
+  list-style: none;
+}
